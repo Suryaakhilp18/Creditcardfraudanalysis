@@ -12,6 +12,7 @@ node_modules
 dist
 dist-ssr
 *.local
+.vercel
 
 # Environment variables
 .env
@@ -48,3 +49,5 @@ wheels/
 .idea
 .DS_Store
 Thumbs.db
+
+.vercel
